@@ -1,6 +1,6 @@
 {
     "date": "10/9/2026",
-    "text": "Available now: ½ dozen chicken eggs",
-    "chicken_eggs": 10,
+    "text": "Availability 10/9/2026: Sold out",
+    "chicken_eggs": 0,
     "goose_eggs": 0
 }
